@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>2012-12-04T14:31:45.5539130+01:00</TimeStampOfAssociatedLegacyPublishXmlFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/PirateOnline.dll">
+      <publishTime>03/20/2013 11:43:58</publishTime>
+    </File>
+    <File Include="bin/PirateOnline.pdb">
+      <publishTime>12/04/2012 14:31:17</publishTime>
+    </File>
+    <File Include="bin/PirateOnline.xml">
+      <publishTime>03/20/2013 11:43:58</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>06/06/2011 12:52:11</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>05/26/2011 11:10:02</publishTime>
+    </File>
+    <File Include="Images/Arrow/ArrowAsc.gif">
+      <publishTime>06/06/2011 10:56:36</publishTime>
+    </File>
+    <File Include="Images/Arrow/ArrowDesc.gif">
+      <publishTime>06/06/2011 10:56:36</publishTime>
+    </File>
+    <File Include="Images/BigSearch/BigSearchLeft.png">
+      <publishTime>05/24/2011 12:47:55</publishTime>
+    </File>
+    <File Include="Images/BigSearch/BigSearchMiddle.png">
+      <publishTime>05/24/2011 12:47:55</publishTime>
+    </File>
+    <File Include="Images/BigSearch/BigSearchRight.png">
+      <publishTime>05/24/2011 12:47:55</publishTime>
+    </File>
+    <File Include="Images/BigSearch/BigSearchRightDown.png">
+      <publishTime>05/24/2011 12:47:55</publishTime>
+    </File>
+    <File Include="Images/BigSearch/Looking.png">
+      <publishTime>05/24/2011 13:14:43</publishTime>
+    </File>
+    <File Include="Images/Button/Download.png">
+      <publishTime>05/26/2011 11:05:22</publishTime>
+    </File>
+    <File Include="Images/Button/DownloadDown.png">
+      <publishTime>05/26/2011 11:05:24</publishTime>
+    </File>
+    <File Include="Images/SmallSearch/SmallSearchLeft.png">
+      <publishTime>05/25/2011 11:26:53</publishTime>
+    </File>
+    <File Include="Images/SmallSearch/SmallSearchMiddle.png">
+      <publishTime>05/25/2011 11:26:53</publishTime>
+    </File>
+    <File Include="Images/SmallSearch/SmallSearchRight.png">
+      <publishTime>05/25/2011 11:29:16</publishTime>
+    </File>
+    <File Include="Images/SmallSearch/SmallSearchRightDown.png">
+      <publishTime>05/25/2011 11:29:17</publishTime>
+    </File>
+    <File Include="Images/Table/TableBottomLeft.png">
+      <publishTime>05/26/2011 10:07:13</publishTime>
+    </File>
+    <File Include="Images/Table/TableBottomMiddle.png">
+      <publishTime>05/26/2011 10:07:13</publishTime>
+    </File>
+    <File Include="Images/Table/TableBottomRight.png">
+      <publishTime>05/26/2011 10:07:13</publishTime>
+    </File>
+    <File Include="Images/Table/TableHeader.png">
+      <publishTime>05/26/2011 10:07:13</publishTime>
+    </File>
+    <File Include="Images/Table/TableHeaderTopLeft.png">
+      <publishTime>05/26/2011 10:07:13</publishTime>
+    </File>
+    <File Include="Images/Table/TableHeaderTopMiddle.png">
+      <publishTime>05/26/2011 10:07:13</publishTime>
+    </File>
+    <File Include="Images/Table/TableHeaderTopRight.png">
+      <publishTime>05/26/2011 10:07:13</publishTime>
+    </File>
+    <File Include="Images/Table/TableLeft.png">
+      <publishTime>05/26/2011 10:07:13</publishTime>
+    </File>
+    <File Include="Images/Table/TableRight.png">
+      <publishTime>05/26/2011 10:07:13</publishTime>
+    </File>
+    <File Include="Images/Table/TableRow.png">
+      <publishTime>05/26/2011 10:07:13</publishTime>
+    </File>
+    <File Include="Images/Table/TableRowAlt.png">
+      <publishTime>05/26/2011 10:07:13</publishTime>
+    </File>
+    <File Include="Images/Top.png">
+      <publishTime>05/24/2011 12:47:55</publishTime>
+    </File>
+    <File Include="Scripts/Default.js">
+      <publishTime>06/06/2011 12:47:50</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.6.min.js">
+      <publishTime>05/24/2011 12:47:29</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.8.13.custom.min.js">
+      <publishTime>05/26/2011 11:24:10</publishTime>
+    </File>
+    <File Include="Styles/Default.css">
+      <publishTime>06/06/2011 12:52:20</publishTime>
+    </File>
+    <File Include="Styles/ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png">
+      <publishTime>05/26/2011 11:22:34</publishTime>
+    </File>
+    <File Include="Styles/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png">
+      <publishTime>05/26/2011 11:22:34</publishTime>
+    </File>
+    <File Include="Styles/ui-lightness/images/ui-bg_flat_10_000000_40x100.png">
+      <publishTime>05/26/2011 11:22:34</publishTime>
+    </File>
+    <File Include="Styles/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png">
+      <publishTime>05/26/2011 11:22:34</publishTime>
+    </File>
+    <File Include="Styles/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png">
+      <publishTime>05/26/2011 11:22:34</publishTime>
+    </File>
+    <File Include="Styles/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>05/26/2011 11:22:34</publishTime>
+    </File>
+    <File Include="Styles/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png">
+      <publishTime>05/26/2011 11:41:41</publishTime>
+    </File>
+    <File Include="Styles/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png">
+      <publishTime>05/26/2011 11:22:34</publishTime>
+    </File>
+    <File Include="Styles/ui-lightness/images/ui-bg_highlight-soft_75_ffe45c_1x100.png">
+      <publishTime>05/26/2011 11:22:34</publishTime>
+    </File>
+    <File Include="Styles/ui-lightness/images/ui-icons_222222_256x240.png">
+      <publishTime>05/26/2011 11:22:34</publishTime>
+    </File>
+    <File Include="Styles/ui-lightness/images/ui-icons_228ef1_256x240.png">
+      <publishTime>05/26/2011 11:22:34</publishTime>
+    </File>
+    <File Include="Styles/ui-lightness/images/ui-icons_ef8c08_256x240.png">
+      <publishTime>05/26/2011 11:22:34</publishTime>
+    </File>
+    <File Include="Styles/ui-lightness/images/ui-icons_ffd27a_256x240.png">
+      <publishTime>05/26/2011 11:22:34</publishTime>
+    </File>
+    <File Include="Styles/ui-lightness/images/ui-icons_ffffff_256x240.png">
+      <publishTime>05/26/2011 11:22:34</publishTime>
+    </File>
+    <File Include="Styles/ui-lightness/jquery-ui-1.8.13.custom.css">
+      <publishTime>05/30/2011 11:15:47</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/20/2013 11:44:07</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

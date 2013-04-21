@@ -1,0 +1,8 @@
+C:\Users\mik\Dropbox\Pirate\PirateOnline\PirateOnline\bin\PirateOnline.dll
+C:\Users\mik\Dropbox\Pirate\PirateOnline\PirateOnline\bin\PirateOnline.pdb
+C:\Users\mik\Dropbox\Pirate\PirateOnline\PirateOnline\bin\PirateOnline.xml
+C:\Users\mik\Dropbox\Pirate\PirateOnline\PirateOnline\obj\Release\PirateOnline.Resources.resources
+C:\Users\mik\Dropbox\Pirate\PirateOnline\PirateOnline\obj\Release\PirateOnline.vbproj.GenerateResource.Cache
+C:\Users\mik\Dropbox\Pirate\PirateOnline\PirateOnline\obj\Release\PirateOnline.dll
+C:\Users\mik\Dropbox\Pirate\PirateOnline\PirateOnline\obj\Release\PirateOnline.xml
+C:\Users\mik\Dropbox\Pirate\PirateOnline\PirateOnline\obj\Release\PirateOnline.pdb
