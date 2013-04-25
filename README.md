@@ -1,4 +1,4 @@
-pirateapp
+The Pirate App
 =========
 
 Front End Webcrawler for vk.com's media library.(web port)
